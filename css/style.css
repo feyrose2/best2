@@ -12,7 +12,7 @@ body {
 }
 header, footer, nav {font-family: Atari, "PT Monospace", monospace; }
 h1 { font-size: 4rem; 
-color: rgba(210,227,245,.75);}
+color: #d2e3f5;}
 h2 { font-size: 3rem; }
 h3 { 
     font-size: 2.5rem; 
