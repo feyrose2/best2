@@ -11,7 +11,8 @@ body {
     min-height: 100vh;
 }
 header, footer, nav {font-family: Atari, "PT Monospace", monospace; }
-h1 { font-size: 4rem; }
+h1 { font-size: 4rem; 
+color: rgba(210,227,245,.75);}
 h2 { font-size: 3rem; }
 h3 { 
     font-size: 2.5rem; 
@@ -26,7 +27,7 @@ header{
    /* background-color: #d2e3f5;*/
     padding: 1em;
     color: brown;
-    box-shadow: 0 4px 2px rgba(0,0,0,.2);    
+    box-shadow: 0 4px 2px rgba(0,0,0,.2);  
 }
 .imgH {
     width: auto;
@@ -78,6 +79,9 @@ nav a:hover {
 
 /*----  main ----*/
 
+form {
+    color: #000;
+}
 
 main {
     display: flex;
