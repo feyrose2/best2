@@ -77,6 +77,10 @@ nav a:hover {
     color: #800080;
 }
 
+a:hover {
+    color:  #fff;
+}
+
 /*----  main ----*/
 
 form {
